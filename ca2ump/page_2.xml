@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alarm-response-list
+    xmlns="http://www.ca.com/spectrum/restful/schema/response" error="EndOfResults" total-alarms="5" throttle="2">
+    <alarm-responses>
+        <alarm id="5e451d2f-a4f8-1b20-037f-00801050333a">
+            <attribute id="0x11f9c">5e451d2f-a4f8-1b20-037f-00801050333a</attribute>
+            <attribute id="0x11f56">1</attribute>
+            <attribute id="0x11f4e">1581587759</attribute>
+            <attribute id="0x1006e">LB0012-F5互联网区链路负载均衡-1</attribute>
+            <attribute id="0x12d7f">10.6.6.20</attribute>
+            <attribute id="0x12b4c">syslog alarm</attribute>
+            <attribute id="0x11f4d">false</attribute>
+            <attribute id="0x10000">F5BigIPDev</attribute>
+            <attribute id="0x10009">huwang</attribute>
+        </alarm>
+        <alarm id="5e4d5d69-f431-1d79-037f-00801050333a">
+            <attribute id="0x11f9c">5e4d5d69-f431-1d79-037f-00801050333a</attribute>
+            <attribute id="0x11f56">0</attribute>
+            <attribute id="0x11f4e">1582128489</attribute>
+            <attribute id="0x1006e">LINE1198-2M-CM-MSTP-TianYu-P_526</attribute>
+            <attribute error="NoSuchAttribute" id="0x12d7f"/>
+            <attribute id="0x12b4c">Ping测试超时恢复</attribute>
+            <attribute id="0x11f4d">true</attribute>
+            <attribute id="0x10000">RTM_Test</attribute>
+            <attribute id="0x10009">CUPDATA</attribute>
+        </alarm>
+
+    </alarm-responses>
+</alarm-response-list>
