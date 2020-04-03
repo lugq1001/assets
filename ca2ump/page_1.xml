@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<alarm-response-list
-    xmlns="http://www.ca.com/spectrum/restful/schema/response" total-alarms="5" throttle="3">
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<alarm-response-list xmlns="http://www.ca.com/spectrum/restful/schema/response" total-alarms="5" throttle="3">
     <alarm-responses>
         <alarm id="5e827828-6f07-1c97-037f-00801050333a">
             <attribute id="0x11f9c">5e827828-6f07-1c97-037f-00801050333a</attribute>
@@ -18,7 +17,7 @@
             <attribute id="0x11f56">0</attribute>
             <attribute id="0x11f4e">1579254168</attribute>
             <attribute id="0x1006e">LINE1212-4M-CU-MSTP-LiuZhouYeYinHang-P_329</attribute>
-            <attribute error="NoSuchAttribute" id="0x12d7f"/>
+            <attribute error="NoSuchAttribute" id="0x12d7f" />
             <attribute id="0x12b4c">Ping测试超时恢复</attribute>
             <attribute id="0x11f4d">true</attribute>
             <attribute id="0x10000">RTM_Test</attribute>
@@ -29,12 +28,12 @@
             <attribute id="0x11f56">0</attribute>
             <attribute id="0x11f4e">1579582936</attribute>
             <attribute id="0x1006e">LINE1179-30M-CM-MSTP-MinShengYinHangDuanXin-P_514</attribute>
-            <attribute error="NoSuchAttribute" id="0x12d7f"/>
+            <attribute error="NoSuchAttribute" id="0x12d7f" />
             <attribute id="0x12b4c">Ping测试超时恢复</attribute>
             <attribute id="0x11f4d">true</attribute>
             <attribute id="0x10000">RTM_Test</attribute>
             <attribute id="0x10009">CUPDATA</attribute>
         </alarm>
     </alarm-responses>
-    <link type="application/xml" href="http://10.80.51.58:8080/spectrum/restful/alarms?id=5af97b64-fcce-4110-a5e4-e1f73466a67d&amp;start=3&amp;throttlesize=3" rel="next"/>
+    <link type="application/xml" href="https://raw.githubusercontent.com/lugq1001/assets/master/ca2ump/page_2.xml" rel="next" />
 </alarm-response-list>
